@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+    <animal>
+        <type>dog</type>
+        <name>King</name>
+        <breed>Border Collie</breed>
+        <color>black and white</color>
+    </animal>
+    <animal>
+        <type>cat</type>
+        <name>Irene</name>
+        <breed>Long hair mix</breed>
+        <color>mixed</color>
+    </animal>
+</animals>
+
+
